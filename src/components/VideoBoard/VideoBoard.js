@@ -5,7 +5,7 @@ import VideoList from "./VideoList";
 
 const VideoBoard = props => {
   const baseURL = "http://localhost:3080/file/";
-  const [selectVideo, setSelectVideo] = useState("test_1649800638258.mp4");
+  const [selectVideo, setSelectVideo] = useState("nya_cat_1649890835782.mp4");
   const saveVideoName = selectedName => {
     setSelectVideo(selectedName);
   };

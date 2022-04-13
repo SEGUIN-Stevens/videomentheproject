@@ -12,7 +12,6 @@ const VideoList = props => {
           key={item.title}
           title={item.title} 
           onSaveItemName={saveItemName}
-          className="video_list"
         />
       ))}
     </ul>
