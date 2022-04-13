@@ -1,0 +1,21 @@
+.controlsIcon {
+  width: 400px;
+  height: 400px;
+  cursor: pointer;
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+.time_progressBar {
+  border-radius: 15px;
+  background-color: green;
+  height: 100%;
+}
+.row-button{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.player__button.toggle{
+  border-radius:10px;
+}
