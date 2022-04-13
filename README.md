@@ -1,6 +1,8 @@
 # SPA in React and nodejs/Express REST API server 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Notes
+Please use MP4 video file to upload 
 
 ## Available Scripts
 
